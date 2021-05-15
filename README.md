@@ -6,3 +6,6 @@ To download this project run <code> git clone repo </code>
 
 ## Software Requirements
 Unreal Engine 4.26 from https://www.unrealengine.com
+
+## Documentations
+Documents related to this project can be found in the "Documentations" folder
